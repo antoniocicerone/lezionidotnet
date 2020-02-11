@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj": {}
+    "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj": {
+    "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj",
+        "projectUniqueName": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj",
         "projectName": "Nuova cartella",
-        "projectPath": "C:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj",
+        "projectPath": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Nuova cartella.csproj",
         "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antonio\\Desktop\\Nuova cartella\\obj\\",
+        "outputPath": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

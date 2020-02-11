@@ -24,5 +24,12 @@ namespace Nuova_cartella.Models.Services.Application
 
             return courseList;
         }
+
+        public CourseDetailViewModel GetCourse(int id)
+        {
+            //TODO da finire lezione 44
+
+            return null;
+        }
     }
-}
+}s

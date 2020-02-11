@@ -17,8 +17,13 @@ namespace Nuova_cartella.Controllers
         }
 
 
-        public IActionResult Detail(string id)
+        public IActionResult Detail(int id)
         {
+
+            var courseService = new CourseService();
+            CourseDetailViewModel viewModel = courseService.GetCourse(id);
+
+
             return View();
         }
 

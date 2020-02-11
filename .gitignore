@@ -1,0 +1,12 @@
+# visualstudio code
+.vscode
+
+
+# idea ide
+.idea
+
+bin
+
+
+# Visual Studio 2015
+.vs/

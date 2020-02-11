@@ -1,0 +1,16 @@
+@model List<CourseViewModel>
+
+
+
+@foreach (CourseViewModel course in Model)
+{
+    <div style="margin-bottom: 30px;border-bottom: 1px solid #333;">
+          <div>@course.Id</div>
+          <div>@course.Title</div>
+          <div>@course.Author</div>
+          <a asp-action="Detail" asp-route-id="@course.Id" class="btn btn-primary mb-2">OK</a>
+    </div>
+  
+}   
+
+<h1>index 2222</h1>

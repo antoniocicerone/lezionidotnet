@@ -20506,6 +20506,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Views\\Courses\\Index.cshtml",
+      "TargetPath": "Views\\Courses\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -20518,6 +20523,11 @@
     {
       "FilePath": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Antonio\\Desktop\\Nuova cartella\\Views\\Courses\\Detail.cshtml",
+      "TargetPath": "Views\\Courses\\Detail.cshtml",
       "FileKind": "mvc"
     },
     {

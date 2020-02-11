@@ -12,7 +12,7 @@ namespace Nuova_cartella.Controllers
         public IActionResult index() 
         {
             CourseService courseService = new CourseService();
-            List<CourseViewModel> courses = courseService.GetServices();
+            List<CourseViewModel> courses = courseService.GetCourses();
             return View(courses);
         }
 

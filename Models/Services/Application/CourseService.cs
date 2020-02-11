@@ -6,7 +6,7 @@ namespace Nuova_cartella.Models.Services.Application
 {
     public class CourseService
     {
-        public List<CourseViewModel> GetServices()
+        public List<CourseViewModel> GetCourses()
         {
 
             var courseList = new List<CourseViewModel>();
